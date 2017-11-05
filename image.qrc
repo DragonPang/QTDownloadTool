@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/add.ico</file>
+        <file>image/download.ico</file>
+        <file>image/MP4.ico</file>
+        <file>image/DOC.ico</file>
+        <file>image/BAT.ico</file>
+        <file>image/RMVB.ico</file>
+        <file>image/TXT.ico</file>
+        <file>image/ZIP.ico</file>
+        <file>image/PDF.ico</file>
+        <file>image/File.ico</file>
+        <file>image/EXE.ico</file>
+    </qresource>
+</RCC>
